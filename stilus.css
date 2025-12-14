@@ -1,13 +1,12 @@
 body {
 
 
-    background-color: blueviolet;
+    background-color: blue;
 }
 
 #tarolo {
 
-    background-color: red;
-    color: dimgray;
+    background-color: indigo;
     width: 80%;
     max-width: 800px;
     margin: auto;
@@ -20,12 +19,12 @@ body {
 }
 
 #menu a {
-    color: black;
+    color: blue;
     text-decoration: none;
-    border: 1px solid gray;
+    border: 2px solid black;
     padding: 5px 10px 5px 10px;
     margin: 10px;
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     border-radius: 10px;
 }
 
